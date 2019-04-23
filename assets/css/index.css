@@ -1,0 +1,70 @@
+body, html {
+    height: 100%;
+}
+
+/*************** HEADER *****************/
+
+header {
+    text-align: center;
+    height: 10vh;
+    background-image: radial-gradient(circle at bottom left, #40219e 0%, #430c69 -2%, #025284 100%);
+    color: white;
+}
+
+header p, footer p {
+    margin-bottom: 0px!important;
+}
+
+/*************** MAIN SECTION *****************/
+
+
+main {
+    height: 80vh;
+    background: rgb(255, 255, 255);
+}
+
+main .container, main .container .row{
+    height:100%;
+}
+
+.button-wrapper {
+    height: 30%;
+}
+
+.button-wrapper button {
+    width: 80%;
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 0 10px 40px 0px rgba(46, 61, 73, 0.2);
+    color: #025284;
+    font-size: 15pt;
+}
+
+
+/*************** FOOTER *****************/
+
+footer {
+    text-align: center;
+    height: 10vh;
+    background-image: radial-gradient(circle at bottom left, #40219e 0%, #430c69 -2%, #025284 100%);
+    color: white;
+}
+
+/*************** MODALS *****************/
+
+
+
+.form input {
+    display: block;
+
+}
+
+#search-input {
+    display: none;
+
+}
+#search-btn {
+    display: none;
+    float:right;
+    margin-bottom: 10px;
+}

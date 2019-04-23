@@ -1,0 +1,13 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "",
+            "surname": "",
+            "averageGrade": "", 
+            "gradeDocNum":"",
+            "imageURL": ""
+            
+        }
+    ]
+}
