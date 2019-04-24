@@ -2,10 +2,19 @@
     "students": [
         {
             "id": "1",
-            "name": "",
-            "surname": "",
-            "averageGrade": "", 
-            "gradeDocNum":"",
+            "name": "MM",
+            "surname": "Mitrovic",
+            "averageGrade": "10", 
+            "gradeDocNum":"2016/23",
+            "imageURL": ""
+            
+        },
+        {
+            "id": "2",
+            "name": "Nikola",
+            "surname": "Peric",
+            "averageGrade": "10", 
+            "gradeDocNum":"2018/10",
             "imageURL": ""
             
         }
